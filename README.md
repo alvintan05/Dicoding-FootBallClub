@@ -1,5 +1,5 @@
 # Dicoding-FootBallClub
-Menggunakan bahasa kotlin. 
+Menggunakan bahasa pemrograman Kotlin. 
 Dengan Fitur :
 1. Menampilkan list data ke dalam RecyclerView.
 2. Menampilkan halaman detail ketika item dipilih.
